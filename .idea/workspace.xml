@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39f06053-efd1-4231-ba88-097fec0232e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Entrypoint.py" afterDir="false" />
-    </list>
+    <list default="true" id="39f06053-efd1-4231-ba88-097fec0232e6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
