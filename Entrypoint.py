@@ -4,6 +4,7 @@ def click():
     print('Click')
     
 def main():
+    print('Displaying results...')
     welcome()
     click()
 
